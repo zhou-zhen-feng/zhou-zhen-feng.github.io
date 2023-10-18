@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I officially joined the Computing Communication Laboratory today! :sparkles: :smile:
+I officially joined the Computing Communication Laboratory of Nanjing University today! :sparkles: :smile:
