@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Classroom Debate on the Management Model of "Public Institutions and Enterprise Management" in Media
 date: 2023-10-17 16:00:00-0400
 inline: false
 related_posts: false
