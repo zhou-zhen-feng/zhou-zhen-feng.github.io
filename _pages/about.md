@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   # <p>555 your office number</p>
-    <p>Nanjing University Xianlin Campus</p>
+    <p>Nanjing University </p>
     <p>Nanjing, China</p>
 
 news: true  # includes a list of news items
@@ -19,9 +18,10 @@ selected_papers: flase # includes a list of papers marked as "selected={true}"
 social: flase  # includes social icons at the bottom of the page
 ---
 
-Zhou Zhenfeng is pursuing a master's degree in Journalism and Communication at Nanjing University and is also a member of the Computational Communication Laboratory.
+Zhou Zhenfeng is pursuing a master's degree in Journalism and Communication at Nanjing University and is also a member of the Computational Communication Laboratory.His hobbies include photography, cycling, and sports.Actively seeking a balance between life and work.
 
-**interests:**                                  
+
+** Rtudy interests:**                                  
   - Computational communication
   - social networks
   - political Communication
