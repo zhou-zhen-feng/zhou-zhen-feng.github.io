@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "zhou zhenfeng",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "1179531536@qq.com",
+    "phone": "",
+    "url": "https://zhou-zhen-feng.github.io",
+    "summary": "know thyself",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "nanjing",
+      "countryCode": "china",
+      "region": "Jiangshu province"
     },
     "profiles": [
       {
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "project director of Rural Delicious 2",
+      "position": "project director",
+      "url": "",
+      "startDate": "2022-10",
+      "endDate": "2023-01",
+      "summary": "As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing promotion texts.",
       "highlights": [
         "Relativity"
       ]
@@ -38,24 +38,42 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Lanzhou University ",
+      "url": "https://www.lzu.edu.cn/",
+      "area": "Radio and Television Studies",
+      "studyType": "bachelor",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        ""
+      ]
+    }, 
+   {
+      "institution": "Nanjing University ",
+      "url": "https://www.nju.edu.cn/",
+      "area": "Computational Communication",
+      "studyType": "Master",
+      "startDate": "2023-09",
+      "endDate": "2026-06",
+      "score": "",
+      "courses": [
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding graduates",
+    
+    }, 
+   {
+      "title": "Excellent Student Model",
+    
+    },
+   {
+      "title": "National Inspirational Scholarship",
+    
     }
   ],
   "certificates": [],
@@ -63,12 +81,12 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "medium"
     }
   ],
   "interests": [],
