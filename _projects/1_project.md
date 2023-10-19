@@ -2,7 +2,7 @@
 layout: page
 title: Rural Delicious 2 Project
 description: As a project director, I participated in the entire process from early project planning and topic selection, mid-term shooting script writing, to later filming.
-img: assets/img/12.jpg
+img: assets/img/乡间至味.jpg
 importance: 1
 category: work
 related_publications: 
@@ -20,9 +20,9 @@ related_publications:
 
 **More Details:**
 
- - Rural Delicious 2 : The “Rural Delicious " is a key project of Liuzhou Radio and Television Station，and is a series of special films on rural revitalization.With a brand new audio-visual recording method,it seeks the ultimate delicacies in the countryside and creates exquisite visual flavors through camera language.‘Rural Delicious 2 ’ is the second park.
+ - **Rural Delicious 2 :** The “Rural Delicious " is a key project of Liuzhou Radio and Television Station，and is a series of special films on rural revitalization.With a brand new audio-visual recording method,it seeks the ultimate delicacies in the countryside and creates exquisite visual flavors through camera language.‘Rural Delicious 2 ’ is the second park.
 
- - Achieve: A total of 6 films including “ASEAN Colorful Cake” and won multiple awards.
+ - **Achievement:** A total of 6 films including “ASEAN Colorful Cake” and won multiple awards.
 
- - Detailed responsibilities: As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing promotion texts.
+ - **Detailed responsibilities:** As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing promotion texts.
     
