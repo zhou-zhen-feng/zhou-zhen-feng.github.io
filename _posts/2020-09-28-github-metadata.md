@@ -1,36 +1,20 @@
 ---
 layout: post
-title:  a post with github metadata
-date: 2020-09-28 21:01:00
-description: a quick run down on accessing github metadata.
-tags: metadata
-categories: sample-posts external-services
+title: Winning the Wandering of Animal Rescue Project 
+date: 2023-03-20 12:01:00
+description: This is a blog about winning awards
+tags: Celebrating Awards
+categories: sample-posts 
 ---
 
-A sample blog page that demonstrates the accessing of github meta data.
+The Lanzhou Wandering Animal Rescue Project of the Youth Volunteer Association of the School of Journalism and Communication at Lanzhou University won the third prize in the Youth Volunteer Service Project Competition, which is a breakthrough in the history of the Youth Volunteer Association!
 
-## What does Github-MetaData do?
-* Propagates the site.github namespace with repository metadata
-* Setting site variables :
-  * site.title
-  * site.description
-  * site.url
-  * site.baseurl
-* Accessing the metadata - duh.
-* Generating edittable links.
+## Project team members
+* General Manager: Zhou Zhenfeng
+* member: Zhou Yuehao
+  * Zhou Yuehao
+  * Lin Yujun
+  * Wang Hanqize
+  * Liu Yuexing
+  * Yao Junyi
 
-## Additional Reading
-* If you're recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.
-* Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.
-* <a href= "https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
-<br />
-
-## Example MetaData
-* Host Name : {{ site.github.hostname }}
-* URL : {{ site.github.url }}
-* BaseURL : {{ site.github.baseurl }}
-* Archived : {{ site.github.archived}}
-* Contributors :
-{% for contributor in site.github.contributors %}
-  * {{ contributor.login }}
-{% endfor %}
