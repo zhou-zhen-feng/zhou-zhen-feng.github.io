@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 # social: flase  # includes social icons at the bottom of the page
 ---
 
-Zhou Zhenfeng is pursuing a master's degree in Journalism and Communication at Nanjing University and is also a member of the Computational Communication Laboratory.His hobbies include photography, cycling, and sports.Actively seeking a balance between life and work.[subtitle](http://zhou-zhen-feng.github.io)
+Zhou Zhenfeng is pursuing a master's degree in Journalism and Communication at Nanjing University and is also a member of the Computational Communication Laboratory.His hobbies include photography, cycling, and sports.Actively seeking a balance between life and work.
 
 
   **Rtudy interests**                                 
