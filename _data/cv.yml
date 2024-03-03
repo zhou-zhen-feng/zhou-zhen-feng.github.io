@@ -15,11 +15,11 @@
       institution: Lanzhou University 
       year: 2019-2023
       description:
-        - Description Broadcasting and Television Studies
-        <!-- - Description 2. -->
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
+        - Broadcasting and Television Studies
+        #- Description 2. 
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
             - Sub-description 2.
     - title: Master
       institution: Nanjing University 
