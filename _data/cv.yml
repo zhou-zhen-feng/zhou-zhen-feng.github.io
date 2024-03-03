@@ -15,8 +15,8 @@
       institution: Lanzhou University 
       year: 2019-2023
       description:
-        - Description Radio and Television Studies
-        - Description 2.
+        - Description Broadcasting and Television Studies
+        <!-- - Description 2. -->
         - title: Description 3.
           contents:
             - Sub-description 1.
