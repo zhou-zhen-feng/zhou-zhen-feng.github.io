@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: 个人照片3.jpg
+  image: person photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Nanjing University </p>
