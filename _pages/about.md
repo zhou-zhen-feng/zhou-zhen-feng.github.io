@@ -23,6 +23,6 @@ Zhou Zhenfeng is pursuing a master's degree in Journalism and Communication at N
 
   **Rtudy interests**                                 
   - Computational communication
+  - economic narrative
   - social networks
   - political Communication
-  - health communication
