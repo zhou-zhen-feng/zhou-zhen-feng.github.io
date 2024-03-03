@@ -67,17 +67,10 @@
       year: 2023-now
       description: A beautiful, simple, clean, and responsive Website.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    #- year: 1921
+    - year: 2019-2023
       items:
         - Outstanding graduates
         - Excellent Student Model
@@ -88,7 +81,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    #- title: Computational communication.
+    - title: Topic
       items: 
         - Description Computational communication
         - Description economic narrative.
