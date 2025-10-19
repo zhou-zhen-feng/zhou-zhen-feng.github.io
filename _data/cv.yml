@@ -1,0 +1,96 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: zhou zhenfeng
+    - name: Date of Birth
+      value: 25th February 2001
+    - name: Languages
+      value: Chinese,English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: bachelor
+      institution: Lanzhou University 
+      year: 2019-2023
+      description:
+        -  Description Broadcasting and Television Studies
+        #- Description 2. 
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: Master
+      institution: Nanjing University 
+      year: 2023-2026
+      description:
+        - Description Computational Communication
+
+- title: Experience
+  type: time_table
+  contents:
+    - title:  project director of Rural Delicious 2
+      institution: Liuzhou TV Station
+      #year: 2022.10 - 2023.01
+      #description:
+        #- Description As a project director, responsible for project planning, on-site investigation, determining topic selection, and writing shooting plans and scripts, coordinating with local publicity committees to arrange scenes, shooting on-site execution, and writing promotion texts.
+        #- Description 2.
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    #- title: 
+      #institution: 
+      #year: 
+      #description:
+        #- Description 1.
+        #- Description 2.
+
+    #- title: 
+      #institution: .
+      #year: 
+
+    #- title: 
+      #institution:
+      #year: 
+      #description:
+
+    #- title: 
+      #institution: 
+      #year: 
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://zhou-zhen-feng.github.io">zhou-zhen-feng.github.io</a>
+      year: 2023-now
+      description: A beautiful, simple, clean, and responsive Website.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2019-2023
+      items:
+        - Outstanding graduates
+        - Excellent Student Model
+    #- year: 2029
+      #items:
+       #- Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic
+      items: 
+        - Description Computational communication
+        - Description economic narrative.
+    #- title: Topic 2.
+      #items:
+        #- Description 1.
+        #- Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u>sports,music,travel etc.
