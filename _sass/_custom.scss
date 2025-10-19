@@ -31,6 +31,8 @@ code, pre {
 
 
 
+/* _custom.scss - 自定义博客样式 */
+
 /* 博客首页标签一行显示 */
 .blog-tags {
   display: flex;         /* flex 排列 */
@@ -46,4 +48,11 @@ code, pre {
   border-radius: 5px;
   font-size: 0.9rem;
   white-space: nowrap;   /* 保证标签不换行 */
+}
+
+/* 响应式处理 */
+@media (max-width: 768px) {
+  .blog-tags {
+    flex-wrap: wrap;  /* 手机屏幕允许换行 */
+  }
 }
