@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p></p>
 
-nav: true
+nav: false
 nav_order: 8
 ---
 
