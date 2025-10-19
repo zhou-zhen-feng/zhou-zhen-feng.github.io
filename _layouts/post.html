@@ -2,6 +2,19 @@
 layout: default
 ---
 <!-- _layouts/post.html -->
+
+<div class="blog-tags">
+  {% for tag in site.display_tags %}
+    <span class="tag">{{ tag }}</span>
+  {% endfor %}
+</div>
+
+<div class="blog-categories">
+  {% for category in site.display_categories %}
+    <span class="category">{{ category }}</span>
+  {% endfor %}
+</div>
+
 {%- assign year = page.date | date: "%Y" -%}
 {%- assign tags = page.tags | join: "" -%}
 {%- assign categories = page.categories | join: "" -%}
