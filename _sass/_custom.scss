@@ -27,3 +27,23 @@ h1, h2, h3, h4, h5, h6 {
 code, pre {
     font-family: var(--global-mono-family);
 }
+
+
+
+
+/* 博客首页标签一行显示 */
+.blog-tags {
+  display: flex;         /* flex 排列 */
+  flex-wrap: nowrap;     /* 不换行 */
+  gap: 10px;             /* 标签间距 */
+  margin: 10px 0;
+}
+
+.blog-tags .tag {
+  display: inline-block;
+  background-color: #f0f0f0; /* 可自定义背景 */
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  white-space: nowrap;   /* 保证标签不换行 */
+}
