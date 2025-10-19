@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
-    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -18,11 +17,7 @@ latest_posts: false  # includes a list of the newest posts
 # social: flase  # includes social icons at the bottom of the page
 ---
 
-Zhou Zhenfeng is pursuing a master's degree in Journalism and Communication at Nanjing University and is also a member of the Computational Communication Laboratory.His hobbies include photography, cycling, and sports.Actively seeking a balance between life and work.
+I am a third-year graduate student at the [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/main.htm), under the supervision of Professor [Cheng-Jun Wang](https://chengjun.github.io). I am also a member of the Computational Communication Collaboratory, Nanjing University. I completed my undergraduate studies at Lanzhou University, focusing on coursework in Film and Television and Data Visualization.
 
+My current research focuses on hate speech and textual narratives. Specifically, I use causal inference and natural language processing methods to analyze hate narratives and negative sentiments toward specific racial groups, using large-scale datasets constructed from historical newspapers, books, and online platforms. In addition, I have a background in media psychology and am familiar with survey research and scale analysis.
 
-  **Rtudy interests**                                 
-  - Computational communication
-  - economic narrative
-  - social networks
-  - political Communication
