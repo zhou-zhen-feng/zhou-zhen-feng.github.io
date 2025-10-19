@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: research
 description: Current representative papers.
-nav: false
+nav: true
 nav_order: 2
 ---
 <!-- _pages/publications.md -->
