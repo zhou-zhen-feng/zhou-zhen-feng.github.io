@@ -31,28 +31,24 @@ code, pre {
 
 
 
-/* _custom.scss - 自定义博客样式 */
-
-/* 博客首页标签一行显示 */
-.blog-tags {
-  display: flex;         /* flex 排列 */
-  flex-wrap: nowrap;     /* 不换行 */
-  gap: 10px;             /* 标签间距 */
-  margin: 10px 0;
+.blog-tags, .blog-categories {
+  display: flex;      /* 一行排列 */
+  flex-wrap: nowrap;  /* 不换行 */
+  gap: 10px;          /* 间距 */
 }
 
-.blog-tags .tag {
+.blog-tags .tag,
+.blog-categories .category {
   display: inline-block;
-  background-color: #f0f0f0; /* 可自定义背景 */
+  background-color: #f0f0f0;
   padding: 5px 10px;
   border-radius: 5px;
+  white-space: nowrap;
   font-size: 0.9rem;
-  white-space: nowrap;   /* 保证标签不换行 */
 }
 
-/* 响应式处理 */
 @media (max-width: 768px) {
-  .blog-tags {
-    flex-wrap: wrap;  /* 手机屏幕允许换行 */
+  .blog-tags, .blog-categories {
+    flex-wrap: wrap;  /* 手机屏幕自动换行 */
   }
 }
