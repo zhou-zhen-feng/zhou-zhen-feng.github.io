@@ -19,7 +19,7 @@ horizontal: false
   <!-- 右侧文字 -->
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
-      <a href="https://zhou-zhen-feng.github.io/projects/American_civil_war_paper/" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://zhou-zhen-feng.github.io/projects/predict_text_emotion_china/" target="_blank" style="text-decoration: none; color: inherit;">
         Develop a predictor for detecting sentiments toward China in online texts
       </a>
     </p>
