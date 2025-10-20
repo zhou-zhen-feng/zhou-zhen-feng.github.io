@@ -1,10 +1,7 @@
 ---
-layout: page
+layout: post
 title: The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800–1920)
-date: 
-description: 
-tags: 
-categories: 
+
 ---
 
 <!-- 论文展示块 -->
