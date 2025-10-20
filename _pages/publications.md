@@ -12,7 +12,6 @@ nav_order: 2
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 
-
 <!-- 第一组 -->
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <div style="flex: 0 0 30%; text-align: center;">
