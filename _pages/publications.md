@@ -17,7 +17,7 @@ nav_order: 2
   
   <!-- 左侧图片 -->
   <div style="flex: 0 0 30%; text-align: center;">
-    <img src="/assets/img/civil_war.jpg" alt="example image" style="width:100%; border-radius: 10px;">
+    <img src="/assets/img/civil_war.png" alt="example image" style="width:100%; border-radius: 10px;">
   </div>
 
   <!-- 右侧文字 -->
