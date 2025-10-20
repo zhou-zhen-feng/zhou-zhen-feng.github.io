@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800–1920)"
 
 ---
