@@ -13,7 +13,7 @@ horizontal: false
 
   <!-- 左侧图片 -->
   <div style="flex: 0 0 30%; text-align: center;">
-    <img src="/assets/img/civil_war.png" alt="example image" style="width:100%; border-radius: 10px;">
+    <img src="/assets/img/predict_emotion_for_china.png" alt="example image" style="width:100%; border-radius: 10px;">
   </div>
 
   <!-- 右侧文字 -->
@@ -33,7 +33,7 @@ horizontal: false
         Sentiment Classification
       </span>
       <span style="background-color: #e8f1fb; color: #1a73e8; padding: 4px 10px; border-radius: 15px; display: inline-block; transition: background-color 0.3s;">
-        China-related Attitudes
+        China-related Emotions
       </span>
     </div>
   </div>
@@ -45,7 +45,6 @@ span:hover {
   background-color: #d2e3fc !important;
 }
 </style>
-
 
 <!-- 横线 -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
