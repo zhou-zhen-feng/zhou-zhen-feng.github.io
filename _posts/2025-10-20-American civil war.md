@@ -5,7 +5,7 @@ title: "The Unintended Consequences of Emancipation: The Abolition of Slavery an
 ---
 
 <!-- 论文展示块 -->
-<div style="max-width: 900px; margin: 30px auto; font-family: Arial, sans-serif; line-height: 1.6;">
+<h2 style="font-weight: bold; text-align: center; margin-bottom: 10px; font-size: 18px; line-height: 1.4;">
 
   <!-- 标题 -->
   <h2 style="font-weight: bold; text-align: center; margin-bottom: 10px;">
