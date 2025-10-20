@@ -23,7 +23,7 @@ nav_order: 2
   <!-- 右侧文字 -->
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
-      <a href="https://github.com/zhou-zhen-feng/zhou-zhen-feng.github.io/blob/main/_posts/2025-American%20civil%20paper" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://zhou-zhen-feng.github.io/blog/2023/sidebar-table-of-contents/" target="_blank" style="text-decoration: none; color: inherit;">
         Zhou, Z., & Wang, C.J.* (2025). The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920).
       </a>
     </p>
