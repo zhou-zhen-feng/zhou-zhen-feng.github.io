@@ -17,13 +17,13 @@ nav_order: 2
   
   <!-- 左侧图片 -->
   <div style="flex: 0 0 30%; text-align: center;">
-    <img src="/assets/img/1.jpg" alt="example image" style="width:100%; border-radius: 10px;">
+    <img src="/assets/img/civil_war.jpg" alt="example image" style="width:100%; border-radius: 10px;">
   </div>
 
   <!-- 右侧文字 -->
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
-      <a href="https://zhou-zhen-feng.github.io/blog/2023/sidebar-table-of-contents/" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://zhou-zhen-feng.github.io/projects/American_civil_war_paper/" target="_blank" style="text-decoration: none; color: inherit;">
         Zhou, Z., & Wang, C.J.* (2025). The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920).
       </a>
     </p>
