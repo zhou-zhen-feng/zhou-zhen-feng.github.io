@@ -6,8 +6,6 @@ date: 2025-08-07
 categories: note
 feature: true
 tags: 
-giscus_comments: true
-
 
 _styles: >
   .fake-img {
