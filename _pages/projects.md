@@ -100,3 +100,59 @@ span:hover {
 
 <!-- 横线 -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
+
+
+<!-- 第三组代表作 -->
+<div style="display: flex; align-items: flex-start; margin: 20px 0;">
+
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="/assets/img/agent_simulation.png" alt="Agent-based persuasion simulation" style="width:100%; border-radius: 10px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1; padding-left: 20px;">
+    <!-- 标题 -->
+    <p style="margin:0; font-weight: bold;">
+      <a href="https://zhou-zhen-feng.github.io/projects/agent_simulation/" target="_blank" style="text-decoration: none; color: inherit;">
+        Simulation of Persuasive Communication Using Large Language Model Agents
+      </a>
+    </p>
+
+    <!-- 标签 -->
+    <div style="margin-top: 8px; font-size: 13px;">
+      <span style="background-color: #e8f1fb; color: #1a73e8; padding: 4px 10px; border-radius: 15px; margin-right: 6px; display: inline-block; transition: background-color 0.3s;">
+        Social Judgment Theory
+      </span>
+      <span style="background-color: #e8f1fb; color: #1a73e8; padding: 4px 10px; border-radius: 15px; margin-right: 6px; display: inline-block; transition: background-color 0.3s;">
+        LLM
+      </span>
+      <span style="background-color: #e8f1fb; color: #1a73e8; padding: 4px 10px; border-radius: 15px; margin-right: 6px; display: inline-block; transition: background-color 0.3s;">
+        Simulation
+      </span>
+      <span style="background-color: #e8f1fb; color: #1a73e8; padding: 4px 10px; border-radius: 15px; display: inline-block; transition: background-color 0.3s;">
+        Network Analysis
+      </span>
+    </div>
+
+    <!-- 获奖说明 -->
+    <p style="margin-top: 8px; font-size: 13px; color: #555;">
+      This research project was awarded the Second Prize at the 5th China National Competition on Social Computing Innovation. 
+      Official Website: 
+      <a href="https://bdsc2025cup.fiblab.net/" target="_blank" style="color: #1a73e8; text-decoration: none;">
+        https://bdsc2025cup.fiblab.net/
+      </a>
+    </p>
+  </div>
+</div>
+
+<!-- 标签 hover 效果 -->
+<style>
+span:hover {
+  background-color: #d2e3fc !important;
+}
+</style>
+
+<!-- 横线 -->
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
