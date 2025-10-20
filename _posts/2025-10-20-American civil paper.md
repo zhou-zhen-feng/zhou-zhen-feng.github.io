@@ -1,10 +1,45 @@
 ---
-layout: post
+layout: distill
 title: 
+description:
+date: 2025-08-07
+categories: note
+feature: true
+tags: 
+giscus_comments: true
 
-giscus_comments: false
-related_posts: false
+
+_styles: >
+  .fake-img {
+    background: #bbb;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 12px;
+  }
+  .fake-img p {
+    font-family: monospace;
+    color: white;
+    text-align: left;
+    margin: 12px 0;
+    text-align: center;
+    font-size: 16px;
+  }
+  .highlight-box {
+    background: #f8f9fa;
+    border-left: 4px solid #007bff;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  .highlight-box h4 {
+    color: #007bff;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
 ---
+
 <!-- 论文展示块 -->
 <div style="max-width: 900px; margin: 30px auto; font-family: Arial, sans-serif; line-height: 1.6;">
 
