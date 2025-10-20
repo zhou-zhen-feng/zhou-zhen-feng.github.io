@@ -24,11 +24,11 @@ Considering the inherent characteristics of the data and the complexity of the t
 ### Methods
 
 #### Topic Classification Task
-1. **Step 1:** Collect online text data.  
-2. **Step 2:** Extract features from the collected texts and construct the text dataset.  
-3. **Step 3:** Using the inherent topic labels of the data, train and fine-tune different pre-trained BERT models.  
-4. **Step 4:** Conduct experiments on the validation set using **Accuracy** to compare models and select the best-performing one.  
-5. **Step 5:** Evaluate the selected model comprehensively on the test set using **Accuracy**, **Precision**, **Recall**, and **F1-score**.
+**Step 1:** Collect online text data.  
+**Step 2:** Extract features from the collected texts and construct the text dataset.  
+**Step 3:** Using the inherent topic labels of the data, train and fine-tune different pre-trained BERT models.  
+**Step 4:** Conduct experiments on the validation set using **Accuracy** to compare models and select the best-performing one.  
+**Step 5:** Evaluate the selected model comprehensively on the test set using **Accuracy**, **Precision**, **Recall**, and **F1-score**.
 
 #### Sentiment Prediction Task Toward China
 The sentiment prediction task involves processes such as text encoding, LLM-based data augmentation, and fine-tuning of different pre-trained BERT models, making it relatively complex. A simplified diagram is shown below:
