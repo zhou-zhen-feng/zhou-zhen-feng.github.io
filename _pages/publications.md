@@ -25,6 +25,9 @@ nav_order: 2
   </div>
 </div>
 
+<!-- 横线 -->
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
 <!-- 第二组 -->
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <div style="flex: 0 0 30%; text-align: center;">
@@ -36,6 +39,9 @@ nav_order: 2
     </p>
   </div>
 </div>
+
+<!-- 横线 -->
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 <!-- 第三组 -->
 <div style="display: flex; align-items: center; margin: 20px 0;">
