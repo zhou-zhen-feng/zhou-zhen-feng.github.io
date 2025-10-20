@@ -6,7 +6,12 @@ title: "The Unintended Consequences of Emancipation: The Abolition of Slavery an
 
 <!-- 论文展示块 -->
 <div style="max-width: 900px; margin: 30px auto; font-family: Arial, sans-serif; line-height: 1.6;">
-  
+
+  <!-- 标题 -->
+  <h2 style="font-weight: bold; text-align: center; margin-bottom: 10px;">
+    The Unintended Consequences of Emancipation:<br>
+    The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800–1920)
+  </h2>
   <!-- 横线 -->
   <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
