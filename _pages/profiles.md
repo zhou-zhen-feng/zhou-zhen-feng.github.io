@@ -117,16 +117,16 @@ nav_order: 3
 #### 📊 Visualization
 
 - **Moral Score Visualization**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization%20and%20Statistics/Moral%20Score%20Visualization.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization/Moral%20Score%20Visualization.ipynb)
 
 - **Sentiment Score Visualization**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization%20and%20Statistics/Sentiment%20Score%20Visualization.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization/Sentiment%20Score%20Visualization.ipynb)
 
 - **Basic Descriptive Statistics**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization%20and%20Statistics/Basic%20Descriptive%20Statistics.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization/Basic%20Descriptive%20Statistics.ipynb)
 
 - **Plot High-Resolution Maps Using ggplot2 (R)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization%20and%20Statistics/Plot%20high-resolution%20maps%20using%20ggplot2%20(ggplot%20in%20R).R)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Visualization/Plot%20high-resolution%20maps%20using%20ggplot2%20(ggplot%20in%20R).R)
 
 ---
 
