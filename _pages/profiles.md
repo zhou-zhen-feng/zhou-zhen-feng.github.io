@@ -7,15 +7,15 @@ nav: true
 nav_order: 3
 ---
 
-<h2 style="text-align:center;">Research that benefits others deserves respect</h2>
+<h2 style="text-align:center; color:#d16ba5;">Research that benefits others deserves respect</h2>
 
-<p style="text-align:center;">
-<strong>Data Collection</strong> &nbsp; | &nbsp;
-<strong>Text Analysis</strong> &nbsp; | &nbsp;
-<strong>Machine Learning</strong> <br>
-<strong>Multimodal Analysis</strong> &nbsp; | &nbsp;
-<strong>Visualization</strong> &nbsp; | &nbsp;
-<strong>Statistics & Other</strong>
+<p style="text-align:center; font-size:1.1em;">
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Data Collection</span>
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Text Analysis</span>
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Machine Learning</span> <br>
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Multimodal Analysis</span>
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Visualization</span>
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Statistics & Other</span>
 </p>
 
 ---
