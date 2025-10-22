@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: data
+title: blog
 description: 
 nav: true
-nav_order: 6
+nav_order: 2
 ---
