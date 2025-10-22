@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /repositories/
 title: blog
 description: 
 nav: true
