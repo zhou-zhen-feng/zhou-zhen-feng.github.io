@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: blog
+title: My blog
 description: 
 nav: true
 nav_order: 2
