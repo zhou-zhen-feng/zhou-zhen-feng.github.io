@@ -1,13 +1,7 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 7
+title: My blog
+nav: true
+nav_order: 2
 dropdown: false
-children:
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
 ---
