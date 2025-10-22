@@ -18,6 +18,7 @@ nav_order: 3
     line-height: 1.6;
     margin: 30px;
     background-color: #f9f9f9;
+    font-size: 18px;
   }
 
   /* 一级标题 */
