@@ -3,6 +3,6 @@ layout: page
 permalink: /people/
 title: My blog
 description: 
-nav: false
+nav: true
 nav_order: 2
 ---
