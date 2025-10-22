@@ -133,27 +133,27 @@ nav_order: 3
 #### 📈 Statistics & Other
 
 - **Two-Way Fixed Effects (Stata)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Two-Way%20Fixed%20Effects%20(in%20Stata).do)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Two-Way%20Fixed%20Effects%20(in%20Stata).do)
 
 - **Continuous Difference-in-Differences (DID, R)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Continuous%20Difference-in-Differences%20(DID).R)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Continuous%20Difference-in-Differences%20(DID).R)
 
 - **Fixed Effects Method (R)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Fixed%20Effects%20Method%20(in%20R).R)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Fixed%20Effects%20Method%20(in%20R).R)
 
 - **Mediation Analysis Method (R)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Mediation%20Analysis%20Method.R)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Mediation%20Analysis%20Method.R)
 
 - **Ordinary Regression Methods (R)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Ordinary%20Regression%20Methods.R)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Ordinary%20Regression%20Methods.R)
 
 - **Automatically Create MTurk Qualifications to Block Previously Responded Participants (Python)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Automatically%20Create%20Qualifications%20on%20the%20MTurk%20Platform%20to%20Block%20Previously%20Responded%20Participants.py)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Automatically%20Create%20Qualifications%20on%20the%20MTurk%20Platform%20to%20Block%20Previously%20Responded%20Participants.py)
 
 - **Automatically Distribute Project Tasks on MTurk (Python)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Automatically%20Distribute%20Project%20Tasks%20on%20the%20MTurk%20Platform.py)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Automatically%20Distribute%20Project%20Tasks%20on%20the%20MTurk%20Platform.py)
 
 - **Automatically Distribute Tasks to Respondents via MTurk (Python)**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Causal%20Inference%20and%20Automation/Automatically%20Distribute%20Tasks%20to%20Respondents%20via%20the%20MTurk%20Platform.py)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Statistics%20and%20other/Automatically%20Distribute%20Tasks%20to%20Respondents%20via%20the%20MTurk%20Platform.py)
 
 **Continue…**
