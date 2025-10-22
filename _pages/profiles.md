@@ -12,7 +12,7 @@ nav_order: 3
 <p style="text-align:center; font-size:1.1em;">
 <span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Data Collection</span>
 <span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Text Analysis</span>
-<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Machine Learning</span> <br>
+<span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Machine Learning</span> 
 <span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Multimodal Analysis</span>
 <span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Visualization</span>
 <span style="color:#d16ba5; font-weight:bold; margin:0 12px;">#Statistics & Other</span>
