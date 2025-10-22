@@ -6,59 +6,6 @@ description:
 nav: true
 nav_order: 3
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Research Resources</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 30px;
-    background-color: #f9f9f9;
-    font-size: 18px;
-  }
-
-  /* 一级标题 */
-  h1 {
-    color: #8a2be2; /* 图片紫色参考 */
-    font-weight: 700;
-    font-size: 2.3em;
-    text-align: center;
-    margin-bottom: 20px;
-  }
-
-  /* 标签 */
-  .tags {
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  .tag {
-    font-size: 1em;
-    color: #8a2be2;
-    margin: 0 12px 8px 0;
-    display: inline-block;
-  }
-
-  /* 二级标题 */
-  h2 {
-    margin-top: 30px;
-    color: #8a2be2;
-  }
-
-  ul {
-    list-style: none;
-    padding-left: 0;
-  }
-  li {
-    margin-bottom: 10px;
-  }
-</style>
-</head>
-<body>
-
 <h1>Research that benefits others deserves respect</h1>
 
 <div class="tags">
@@ -171,5 +118,4 @@ nav_order: 3
 <a href="#">Link</a></li>
 </ul>
 
-</body>
-</html>
+
