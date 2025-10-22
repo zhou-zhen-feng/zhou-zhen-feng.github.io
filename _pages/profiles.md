@@ -23,22 +23,22 @@ nav_order: 3
 #### 📁 Data Collection
 
 - **Data Collection from Chinese Travel Platforms**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20from%20Chinese%20Travel%20Platforms.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20collection/Data%20Collection%20from%20Chinese%20Travel%20Platforms.ipynb)
 
 - **Data Collection of Newspaper Information from the U.S. Library of Congress**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20of%20Newspaper%20Information%20from%20the%20U.S.%20Library%20of%20Congress.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20collection/Data%20Collection%20of%20Newspaper%20Information%20from%20the%20U.S.%20Library%20of%20Congress.ipynb)
 
 - **Data Collection of U.S. Congressional Members Information**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20of%20U.S.%20Congressional%20Members%20Information.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20collection/Data%20Collection%20of%20U.S.%20Congressional%20Members%20Information.ipynb)
 
 - **Data Collection on African American Enlistment during the U.S. Civil War**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20on%20African%20American%20Enlistment%20during%20the%20U.S.%20Civil%20War.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20collection/Data%20Collection%20on%20African%20American%20Enlistment%20during%20the%20U.S.%20Civil%20War.ipynb)
 
 - **Large-Scale County-Level Newspaper Data Collection in the United States**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Large-Scale%20County-Level%20Newspaper%20Data%20Collection%20in%20the%20United%20States.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20collection/Large-Scale%20County-Level%20Newspaper%20Data%20Collection%20in%20the%20United%20States.ipynb)
 
 - **New York Times Data Collection**  
-[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/New%20York%20Times%20Data%20Collection.ipynb)
+[Link](https://github.com/zhou-zhen-feng/database/blob/main/Data%20collection/New%20York%20Times%20Data%20Collection.ipynb)
 
 ---
 
