@@ -5,6 +5,7 @@ date: 2023-03-20 12:01:00
 description: This is a blog about winning awards
 tags: Celebrating Awards
 categories: sample-posts 
+published: false
 ---
 
 The Lanzhou Wandering Animal Rescue Project of the Youth Volunteer Association of the School of Journalism and Communication at Lanzhou University won the third prize11 in the Youth Volunteer Service Project Competition, which is a breakthrough in the history of the Youth Volunteer Association!
