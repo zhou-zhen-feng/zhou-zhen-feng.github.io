@@ -25,75 +25,26 @@ nav_order: 3
 <span style="background-color:#8c564b; color:#fff; padding:4px 10px; border-radius:12px; margin-right:6px; font-size:0.9em;">Statistics and other</span>
 </div>
 
-<h2 style="margin-top:30px;">Text Analysis</h2>
+## Data Collection
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/A%20Memory-Efficient,%20Multithreaded%20Method%20for%20Training%20Word%20Embeddings%20on%20Ultra-Large-Scale%20Texts.ipynb"
-     style="background-color:#1f77b4; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     A Memory-Efficient, Multithreaded Method for Training Word Embeddings
+<div style="display:flex; flex-direction:column; gap:10px;">
+  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20from%20Chinese%20Travel%20Platforms.ipynb" target="_blank" style="padding:12px 16px; border:1px solid #ddd; border-radius:10px; text-decoration:none; color:#333; background-color:#fafafa;">
+    Data Collection from Chinese Travel Platforms
   </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/analyse%20textual%20narrative%20structure.ipynb"
-     style="background-color:#2ca02c; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Analyse Textual Narrative Structure
+  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20of%20Newspaper%20Information%20from%20the%20U.S.%20Library%20of%20Congress.ipynb" target="_blank" style="padding:12px 16px; border:1px solid #ddd; border-radius:10px; text-decoration:none; color:#333; background-color:#fafafa;">
+    Data Collection of Newspaper Information from the U.S. Library of Congress
   </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Analysis%20of%20Morality%20Reflected%20in%20Text.ipynb"
-     style="background-color:#ff7f0e; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Analysis of Morality Reflected in Text
+  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20of%20U.S.%20Congressional%20Members%20Information.ipynb" target="_blank" style="padding:12px 16px; border:1px solid #ddd; border-radius:10px; text-decoration:none; color:#333; background-color:#fafafa;">
+    Data Collection of U.S. Congressional Members Information
   </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Bag-of-Words%20Model%20(BoW).ipynb"
-     style="background-color:#d62728; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Bag-of-Words Model (BoW)
+  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Data%20Collection%20on%20African%20American%20Enlistment%20during%20the%20U.S.%20Civil%20War.ipynb" target="_blank" style="padding:12px 16px; border:1px solid #ddd; border-radius:10px; text-decoration:none; color:#333; background-color:#fafafa;">
+    Data Collection on African American Enlistment during the U.S. Civil War
   </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Construct%20Extended%20Seed%20Word%20Lists%20from%20Ultra-Large-Scale%20Texts%20Using%20Pointwise%20Mutual%20Information%20(PMI).ipynb"
-     style="background-color:#9467bd; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Construct Extended Seed Word Lists using PMI
+  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/Large-Scale%20County-Level%20Newspaper%20Data%20Collection%20in%20the%20United%20States.ipynb" target="_blank" style="padding:12px 16px; border:1px solid #ddd; border-radius:10px; text-decoration:none; color:#333; background-color:#fafafa;">
+    Large-Scale County-Level Newspaper Data Collection in the United States
   </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Dictionary-based%20Method.ipynb"
-     style="background-color:#8c564b; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Dictionary-based Method
+  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Data%20Collection/New%20York%20Times%20Data%20Collection.ipynb" target="_blank" style="padding:12px 16px; border:1px solid #ddd; border-radius:10px; text-decoration:none; color:#333; background-color:#fafafa;">
+    New York Times Data Collection
   </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Latent%20Dirichlet%20Allocation%20(LDA).ipynb"
-     style="background-color:#17becf; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Latent Dirichlet Allocation (LDA)
-  </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Text%20Sentiment%20Analysis.ipynb"
-     style="background-color:#bcbd22; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Text Sentiment Analysis
-  </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Use%20an%20LLM%20and%20SymSpell%20to%20detect%20misspelled%20words%20in%20text.ipynb"
-     style="background-color:#e377c2; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Use an LLM and SymSpell to Detect Misspelled Words
-  </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Use%20an%20LLM%20to%20extract%20adjectives%20describing%20specific%20entities.ipynb"
-     style="background-color:#7f7f7f; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Use an LLM to Extract Adjectives
-  </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Use%20WordSegment%20to%20correct%20recognition%20errors%20in%20text.ipynb"
-     style="background-color:#bc5090; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Use WordSegment to Correct Recognition Errors
-  </a>
-
-  <a href="https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/Word%20Embedding.ipynb"
-     style="background-color:#003f5c; color:white; padding:10px 14px; border-radius:10px; text-decoration:none; transition:all 0.2s;">
-     Word Embedding
-  </a>
-
 </div>
 
-<style>
-a:hover {
-  box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
-  transform: translateY(-2px);
-}
-</style>
