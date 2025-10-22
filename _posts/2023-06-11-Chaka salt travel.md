@@ -6,6 +6,7 @@ description: This is a photo taken at Chaka Salt Lake in northwest China
 tags: images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
+published: false
 ---
 Love your life
 
