@@ -36,6 +36,12 @@ horizontal: false
         China-related Emotions
       </span>
     </div>
+    
+    <!-- 人名 + 时间 -->
+    <p style="margin-top: 10px; font-size: 13px; color: #666;">
+      Prof. Zhou, YX.,<strong> Zhou, Z.</strong> · July 2025 – present
+    </p>
+    
   </div>
 </div>
 
@@ -82,6 +88,9 @@ span:hover {
         NLP
       </span>
     </div>
+     <p style="margin-top: 10px; font-size: 13px; color: #666;">
+      <strong> Zhou, Z.</strong> Xiao, X. · May 2025 – September 2025
+    </p>
     
     <!-- 经费说明 -->
     <p style="margin-top: 8px; font-size: 13px; color: #555;">
@@ -134,7 +143,10 @@ span:hover {
         Network Analysis
       </span>
     </div>
-
+    <p style="margin-top: 10px; font-size: 13px; color: #666;">
+       Xiao, X., Huang, J., <strong> Zhou, Z.</strong> · June 2025 – August 2025
+    </p>
+    
     <!-- 获奖说明 -->
     <p style="margin-top: 8px; font-size: 13px; color: #555;">
       This research project was awarded the Second Prize at the 5th China National Competition on Social Computing Innovation. 
