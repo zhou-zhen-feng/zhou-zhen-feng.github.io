@@ -62,7 +62,7 @@ span:hover {
   <!-- 右侧文字 -->
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
-      <a href="https://zhou-zhen-feng.github.io/projects/predict_text_emotion_china/" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://zhou-zhen-feng.github.io/projects/historical racism lexicon/" target="_blank" style="text-decoration: none; color: inherit;">
         Developed a historical racism lexicon from 60 million U.S. newspaper texts
       </a>
     </p>
