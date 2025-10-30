@@ -19,5 +19,5 @@ latest_posts: false  # includes a list of the newest posts
 
 I am a third-year graduate student at the [School of Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/main.htm), under the supervision of Professor [Cheng-Jun Wang](https://chengjun.github.io). I am also a member of the Computational Communication Collaboratory, Nanjing University. I completed my undergraduate studies at Lanzhou University, focusing on coursework in Film and Television and Data Visualization.
 
-My current research focuses on hate speech and textual narratives. Specifically, I use causal inference and natural language processing methods to analyze hate narratives and negative sentiments toward specific racial groups, using large-scale datasets constructed from historical newspapers, books, and online platforms. In addition, I have a background in media psychology and am familiar with survey research and scale analysis.
+My current research focuses on hate speech and textual narratives. Specifically, I use causal inference and natural language processing methods to analyze hate narratives and negative sentiments toward specific groups, using large-scale datasets constructed from historical newspapers, books, and online platforms. In addition, I have a background in media psychology and am familiar with survey research and scale analysis.
 
