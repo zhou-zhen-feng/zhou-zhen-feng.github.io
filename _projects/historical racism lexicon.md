@@ -22,6 +22,7 @@ According to historical scholarship, we divide 1800–1920 into four distinct pe
 **For full details, please refer to Appendix B of my working paper:**  
 https://zhou-zhen-feng.github.io/assets/pdf/resume.pdf
 
+**Flowchart of Steps 1–3 in Constructing the Racism Lexicon (excluding Step 4)**
 <img width="281" height="469" alt="image" src="https://github.com/user-attachments/assets/fb05f60b-8858-428a-93a0-e8c127a31d65" />
 
 
