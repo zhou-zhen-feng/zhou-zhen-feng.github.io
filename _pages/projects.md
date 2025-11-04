@@ -20,7 +20,7 @@ horizontal: false
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/predict_text_emotion_china/" target="_blank" style="text-decoration: none; color: inherit;">
-        Develop a predictor for detecting sentiments toward China in online texts
+        Develop a predictor for detecting sentiments toward China in online texts(clickable)
       </a>
     </p>
 
@@ -69,7 +69,7 @@ span:hover {
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/historical racism lexicon/" target="_blank" style="text-decoration: none; color: inherit;">
-        Developed a historical racism lexicon from 60 million U.S. newspaper texts
+        Developed a historical racism lexicon from 60 million U.S. newspaper texts(clickable)
       </a>
     </p>
 
@@ -124,7 +124,7 @@ span:hover {
     <!-- 标题 -->
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/agent_simulation/" target="_blank" style="text-decoration: none; color: inherit;">
-        Simulation of Persuasive Communication Using Large Language Model Agents
+        Simulation of Persuasive Communication Using Large Language Model Agents(clickable)
       </a>
     </p>
 
