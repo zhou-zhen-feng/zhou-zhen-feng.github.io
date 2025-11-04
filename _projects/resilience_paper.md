@@ -24,7 +24,7 @@ title: "Evaluating the Brief Resilience Scale in 21 Countries: Psychometric Prop
   <!-- Full Paper Link -->
   <p style="margin-top: 20px;">
     <span style="font-weight: bold;">Full Paper Link:</span>
-    <a href="https://zhou-zhen-feng.github.io/assets/pdf/resume.pdf" target="_blank" style="color: #1a0dab; text-decoration: underline;">
+    <a href="https://zhou-zhen-feng.github.io/assets/pdf/resilience_paper.pdf" target="_blank" style="color: #1a0dab; text-decoration: underline;">
       FULL Paper PDF
     </a>
   </p>
