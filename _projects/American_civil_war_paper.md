@@ -24,8 +24,16 @@ title: "The Unintended Consequences of Emancipation: The Abolition of Slavery an
   <!-- Full Paper Link -->
   <p style="margin-top: 20px;">
     <span style="font-weight: bold;">Full Paper Link:</span>
-    <a href="https://doi.org/10.2139/ssrn.5244337" target="_blank" style="color: #1a0dab; text-decoration: underline;">
-      https://doi.org/10.2139/ssrn.5244337
+    <a href="/assets/pdf/The Unintended Consequences of Emancipation The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800–1920).pdf" target="_blank" style="color: #1a0dab; text-decoration: underline;">
+      click
+    </a>
+  </p>
+
+  <!-- Appendix -->
+  <p style="margin-top: 20px;">
+    <span style="font-weight: bold;">Appendix:</span>
+    <a href="/assets/pdf/appendix.pdf" target="_blank" style="color: #1a0dab; text-decoration: underline;">
+      click
     </a>
   </p>
 
