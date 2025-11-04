@@ -24,7 +24,7 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/American_civil_war_paper/" target="_blank" style="text-decoration: none; color: inherit;">
-        Zhou, Z., & Wang, C.J.* (2025). The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920).
+        Zhou, Z., & Wang, C.J.* (2025). The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920)(clickable).
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
@@ -50,7 +50,7 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/American_civil_war_paper/" target="_blank" style="text-decoration: none; color: inherit;">
-        Zhou, Z., & Ma, Z.* (2025). Evaluating the Brief Resilience Scale in 21 Countries: Psychometric Properties and Measurement Invariance Across Sex, Age, and Countries. Assessment. 
+        Zhou, Z., & Ma, Z.* (2025). Evaluating the Brief Resilience Scale in 21 Countries: Psychometric Properties and Measurement Invariance Across Sex, Age, and Countries. Assessment(clickable). 
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
@@ -76,7 +76,7 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/the Ministry of Foreign Affairs Press Conferences/" target="_blank" style="text-decoration: none; color: inherit;">
-        Liu, Y., Zhou, Z.,& Wang, C.J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences.
+        Liu, Y., Zhou, Z.,& Wang, C.J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences(clickable).
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
