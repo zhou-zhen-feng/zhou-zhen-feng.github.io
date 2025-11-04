@@ -49,7 +49,7 @@ nav_order: 4
   <!-- 右侧文字 -->
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
-      <a href="https://zhou-zhen-feng.github.io/projects/American_civil_war_paper/" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://zhou-zhen-feng.github.io/projects/resilience_paper/" target="_blank" style="text-decoration: none; color: inherit;">
         Zhou, Z., & Ma, Z.* (2025). Evaluating the Brief Resilience Scale in 21 Countries: Psychometric Properties and Measurement Invariance Across Sex, Age, and Countries. Assessment(clickable). 
       </a>
     </p>
@@ -86,11 +86,39 @@ nav_order: 4
 
 </div>
 
+
 <!-- 横线 -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-
 <!-- 第四组代表作 -->
+<div style="display: flex; align-items: flex-start; margin: 20px 0;">
+  
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="/assets/img/henan victim.png" alt="example image" style="width:100%; border-radius: 10px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1; padding-left: 20px;">
+    <p style="margin:0; font-weight: bold;">
+      <a href="https://zhou-zhen-feng.github.io/projects/henan victim" target="_blank" style="text-decoration: none; color: inherit;">
+         Understanding the Co‐occurrence of Depressive and Anxiety Symptoms Among 2021 Henan Flood Victims
+         Through Panel Network Analysis: A 6‐Month, Three‐
+         Wave Longitudinal Study(clickable)
+      </a>
+    </p>
+    <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
+    Journal of Clinical Psychology, Accepted in October 2025
+    </p>
+  </div>
+
+</div>
+
+
+<!-- 横线 -->
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
+<!-- 第五组代表作 -->
 <div style="display: flex; align-items: flex-start; margin: 20px 0;">
   
   <!-- 左侧图片 -->
