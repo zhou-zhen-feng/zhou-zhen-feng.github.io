@@ -29,7 +29,7 @@ nav_order: 4
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
       Paper presented at the 111th Annual National Communication Association Conference (NCA), Denver, America,2025.<br>
-      Latest paper will be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.<br>
+      Latest paper will be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa,2026.<br>
       Currently under revision with my supervisor for submission to Nature Communications.
     </p>
   </div>
@@ -56,7 +56,7 @@ nav_order: 4
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-    The paper was published in <em>Assessment</em> (SSCI Q1) in August 2025. 
+    <em>Assessment</em> (SSCI Q1), published in August 2025.
     </p>
   </div>
 
@@ -88,7 +88,7 @@ nav_order: 4
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-    Journal of Clinical Psychology, Accepted in October 2025
+    <em>Journal of Clinical Psychology</em>, published in November 2025.
     </p>
   </div>
 
@@ -114,7 +114,7 @@ nav_order: 4
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America. Under peer review.
+    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America. Under peer review,2025.
     </p>
   </div>
 
