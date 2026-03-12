@@ -24,13 +24,13 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/American_civil_war_paper/" target="_blank" style="text-decoration: none; color: inherit;">
-        Zhou, Z., & Wang, C.J.* (2025). The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920)(clickable).
+        Zhou, Z., & Wang, C.J.* (2025). The Unintended Consequences of Emancipation: The Abolition of Slavery and the Rise of Racist Narratives in Southern U.S. Newspapers (1800-1920). <span style="color:#1a73e8;">(clickable)</span>
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-      Paper presented at the 111th Annual National Communication Association Conference (NCA), Denver, America,2025.<br>
-      Latest paper will be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa,2026.<br>
-      Currently under revision with my supervisor for submission to Nature Communications.
+      - Paper presented at the 111th Annual National Communication Association Conference (NCA), Denver, America,2025.<br>
+      - Latest paper will be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa,2026.<br>
+      - Currently under revision with my supervisor for submission to Nature Communications.
     </p>
   </div>
 
@@ -52,7 +52,7 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/resilience_paper/" target="_blank" style="text-decoration: none; color: inherit;">
-        Zhou, Z., & Ma, Z.* (2025). Evaluating the Brief Resilience Scale in 21 Countries: Psychometric Properties and Measurement Invariance Across Sex, Age, and Countries. Assessment(clickable). 
+        Zhou, Z., & Ma, Z.* (2025). Evaluating the Brief Resilience Scale in 21 Countries: Psychometric Properties and Measurement Invariance Across Sex, Age, and Countries. Assessment. <span style="color:#1a73e8;">(clickable)</span>
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
@@ -84,7 +84,7 @@ nav_order: 4
       <a href="https://zhou-zhen-feng.github.io/projects/henan victim" target="_blank" style="text-decoration: none; color: inherit;">
          Understanding the Co‐occurrence of Depressive and Anxiety Symptoms Among 2021 Henan Flood Victims
          Through Panel Network Analysis: A 6‐Month, Three‐
-         Wave Longitudinal Study(clickable)
+         Wave Longitudinal Study. <span style="color:#1a73e8;">(clickable)</span>
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
@@ -110,12 +110,12 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/the Ministry of Foreign Affairs Press Conferences/" target="_blank" style="text-decoration: none; color: inherit;">
-        Liu, Y., Zhou, Z.,& Wang, C.J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences(clickable).
+        Liu, Y., Zhou, Z.,& Wang, C.J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences. <span style="color:#1a73e8;">(clickable)</span>
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America,2025.<br> 
-    Under review at Chinese Journal of Communication (CJOC).
+    - The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America,2025.<br> 
+    - Under review at Chinese Journal of Communication (CJOC).
     </p>
   </div>
 
