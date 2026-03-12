@@ -114,7 +114,8 @@ nav_order: 4
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America. Under peer review,2025.
+    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America,2025.<br> 
+    Under review at Chinese Journal of Communication (CJOC).
     </p>
   </div>
 
