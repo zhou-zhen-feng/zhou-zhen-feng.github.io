@@ -29,7 +29,8 @@ nav_order: 4
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
       Paper presented at the 111th Annual National Communication Association Conference (NCA), Denver, America,2025.<br>
-      Latest paper will be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.
+      Latest paper will be presented at the 76th Annual International Communication Association Conference (ICA), Cape Town, South Africa.<br>
+      Currently under revision with my supervisor for submission to Nature Communications.
     </p>
   </div>
 
