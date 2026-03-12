@@ -47,7 +47,7 @@ nav_order: 3
 - **A Memory-Efficient, Multithreaded Method for Training Word Embeddings on Ultra-Large-Scale Texts**  
 [Link](https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/A%20Memory-Efficient,%20Multithreaded%20Method%20for%20Training%20Word%20Embeddings%20on%20Ultra-Large-Scale%20Texts.ipynb)
 
-- **BERTopic**
+- **Bertopic**  
 [Link](https://github.com/zhou-zhen-feng/database/blob/main/Text%20Analysis/bertopic_demo(1).ipynb)
 
 - **Analyse Textual Narrative Structure**  
