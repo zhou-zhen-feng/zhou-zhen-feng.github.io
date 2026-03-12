@@ -64,33 +64,11 @@ nav_order: 4
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 
-<!-- 第三组代表作 -->
-<div style="display: flex; align-items: flex-start; margin: 20px 0;">
-  
-  <!-- 左侧图片 -->
-  <div style="flex: 0 0 30%; text-align: center;">
-    <img src="/assets/img/外交部发言人.png" alt="example image" style="width:100%; border-radius: 10px;">
-  </div>
-
-  <!-- 右侧文字 -->
-  <div style="flex: 1; padding-left: 20px;">
-    <p style="margin:0; font-weight: bold;">
-      <a href="https://zhou-zhen-feng.github.io/projects/the Ministry of Foreign Affairs Press Conferences/" target="_blank" style="text-decoration: none; color: inherit;">
-        Liu, Y., Zhou, Z.,& Wang, C.J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences(clickable).
-      </a>
-    </p>
-    <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
-    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America. Under peer review.
-    </p>
-  </div>
-
-</div>
-
 
 <!-- 横线 -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-<!-- 第四组代表作 -->
+<!-- 第三组代表作 -->
 <div style="display: flex; align-items: flex-start; margin: 20px 0;">
   
   <!-- 左侧图片 -->
@@ -109,6 +87,32 @@ nav_order: 4
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
     Journal of Clinical Psychology, Accepted in October 2025
+    </p>
+  </div>
+
+</div>
+
+
+<!-- 横线 -->
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
+<!-- 第四组代表作 -->
+<div style="display: flex; align-items: flex-start; margin: 20px 0;">
+  
+  <!-- 左侧图片 -->
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="/assets/img/外交部发言人.png" alt="example image" style="width:100%; border-radius: 10px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1; padding-left: 20px;">
+    <p style="margin:0; font-weight: bold;">
+      <a href="https://zhou-zhen-feng.github.io/projects/the Ministry of Foreign Affairs Press Conferences/" target="_blank" style="text-decoration: none; color: inherit;">
+        Liu, Y., Zhou, Z.,& Wang, C.J.* (2025). Unpacking the Black Box of Hostility: Threat Perception, Moral Judgement, and Aggressive Rhetoric in China’s Diplomatic Press Conferences(clickable).
+      </a>
+    </p>
+    <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
+    The paper presented at the 75rd Annual International Communication Association Conference (ICA), Denver, America. Under peer review.
     </p>
   </div>
 
