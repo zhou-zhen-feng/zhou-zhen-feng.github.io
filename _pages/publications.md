@@ -118,15 +118,16 @@ nav_order: 4
 <!-- 横线 -->
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
+
 <!-- 第五组代表作 -->
+<!--
 <div style="display: flex; align-items: flex-start; margin: 20px 0;">
-  
-  <!-- 左侧图片 -->
+ 
   <div style="flex: 0 0 30%; text-align: center;">
     <img src="/assets/img/American_congress.png" alt="example image" style="width:100%; border-radius: 10px;">
   </div>
 
-  <!-- 右侧文字 -->
+ 
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="" target="_blank" style="text-decoration: none; color: inherit;">
@@ -139,4 +140,5 @@ nav_order: 4
   </div>
 
 </div>
+-->
 
