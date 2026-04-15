@@ -82,7 +82,7 @@ nav_order: 4
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
       <a href="https://zhou-zhen-feng.github.io/projects/henan victim" target="_blank" style="text-decoration: none; color: inherit;">
-         Understanding the Co‐occurrence of Depressive and Anxiety Symptoms Among 2021 Henan Flood Victims
+          Zhou, Z., & Ma, Z. (2025). Understanding the Co‐occurrence of Depressive and Anxiety Symptoms Among 2021 Henan Flood Victims
          Through Panel Network Analysis: A 6‐Month, Three‐
          Wave Longitudinal Study. <span style="color:#1a73e8;">(clickable)</span>
       </a>
@@ -136,8 +136,8 @@ nav_order: 4
  
   <div style="flex: 1; padding-left: 20px;">
     <p style="margin:0; font-weight: bold;">
-      <a href="" target="_blank" style="text-decoration: none; color: inherit;">
-         Sun, Y., Zhou, Z., & Wang, C.J.* Building Identity Through Narratives: Who Voices Dissent Within the Party?. 
+      <a href="https://zhou-zhen-feng.github.io/projects/Narrative_identity/" target="_blank" style="text-decoration: none; color: inherit;">
+         Sun, Y., Zhou, Z., & Wang, C.J.* Building Identity Through Narratives: Who Voices Dissent Within the Party?. <span style="color:#1a73e8;">(clickable)</span>
       </a>
     </p>
     <p style="margin:5px 0 0 0; font-style: italic; color: #555;">
